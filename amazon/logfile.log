@@ -1,0 +1,9 @@
+2021-11-19 05:22:56 PM INFO  searchProduct()passed
+2021-11-19 05:22:58 PM INFO  selectProduct()passed
+2021-11-19 05:23:00 PM INFO  addProducttoCart()passed
+2021-11-19 05:23:01 PM ERROR goToCart()failed
+2021-11-19 05:23:01 PM ERROR goToCart()failed with causeproduct was not added to cart ==> expected: <true> but was: <false>
+2021-11-19 05:26:20 PM INFO  searchProduct()passed
+2021-11-19 05:26:23 PM INFO  selectProduct()passed
+2021-11-19 05:26:24 PM INFO  addProducttoCart()passed
+2021-11-19 05:26:26 PM INFO  goToCart()passed
